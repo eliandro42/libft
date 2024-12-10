@@ -45,4 +45,5 @@ A *libft* inclui funções de diferentes áreas, tais como:
    ```bash
    git clone https://github.com/eliandrosergio/libft.git
    cd libft
+   cd libft
    make
