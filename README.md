@@ -43,6 +43,6 @@ A *libft* inclui funções de diferentes áreas, tais como:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu_usuario/libft.git
+   git clone https://github.com/eliandrosergio/libft.git
    cd libft
    make
